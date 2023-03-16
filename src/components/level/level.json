@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_level_levels",
+  "info": {
+    "displayName": "level",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "LevelSkill": {
+      "type": "string"
+    }
+  }
+}

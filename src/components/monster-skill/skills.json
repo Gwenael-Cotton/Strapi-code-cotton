@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_monster_skill_skills",
+  "info": {
+    "displayName": "Skills",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Description": {
+      "type": "string"
+    },
+    "Level": {
+      "type": "component",
+      "repeatable": true,
+      "component": "level.level"
+    },
+    "SkillName": {
+      "type": "string"
+    },
+    "Cooldown": {
+      "type": "string"
+    },
+    "awakeSkills": {
+      "type": "boolean"
+    }
+  }
+}

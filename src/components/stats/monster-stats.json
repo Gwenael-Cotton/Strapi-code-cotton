@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_stats_monster_stats",
+  "info": {
+    "displayName": "MonsterStats"
+  },
+  "options": {},
+  "attributes": {
+    "Hp": {
+      "type": "string"
+    },
+    "Atq": {
+      "type": "string"
+    },
+    "Def": {
+      "type": "string"
+    },
+    "Spd": {
+      "type": "string"
+    }
+  }
+}
